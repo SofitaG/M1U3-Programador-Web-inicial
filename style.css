@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(250, 252, 252);
+    font-family: sans-serif;
+    color: black;
+    margin: 10px 5px 20px 5px;
+}
+h1 {
+    font-size: large;
+}
+h2 {
+    font-size: medium;
+}
+
+h3 {
+    font-size: small;
+}
+
+p {
+    font-size: small;
+}
+img {
+    width: 500px;
+    height: 200px;
+    display: block;
+    margin: 0;
+}
